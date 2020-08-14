@@ -7,12 +7,12 @@ import java.util.Map;
  * leetcode原题：1028
  */
 
- class TreeNode {
-	 	int val;
-	 	TreeNode left;
-	 	TreeNode right;
-	 	TreeNode(int x) { val = x; }
-  }
+// class TreeNode {
+//	 	int val;
+//	 	TreeNode left;
+//	 	TreeNode right;
+//	 	TreeNode(int x) { val = x; }
+//  }
 
 public class 从先序遍历还原二叉树 {
 	public static Map<String, Integer> hash=new HashMap<String, Integer>();
